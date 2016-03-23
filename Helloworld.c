@@ -2,5 +2,7 @@
 void main()
 {
 	int a=10;
-	printf("The helloworld test program %d!", a);
+	int b =10;
+	int c = a+ b;
+	printf("The helloworld test program %d %d %d!", a, b, c);
 }
