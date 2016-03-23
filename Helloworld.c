@@ -1,5 +1,6 @@
 
 void main()
 {
-	printf("The helloworld test program!");
+	int a=10;
+	printf("The helloworld test program %d!", a);
 }
